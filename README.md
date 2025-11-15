@@ -1,6 +1,8 @@
 # img_classification
 Designed to assess understanding of image classification using machine learning techniques. Building a model that can accurately classify images into different categories using Random Forest. The project also involves data preprocessing, model training, result interpretation, and a conceptual discussion on deploying the model.
+
 🧠 Image Classification Using Random Forest and SVM
+
 📋 Overview
 
 This project demonstrates image classification using two classical machine learning algorithms: Random Forest and Support Vector Machine (SVM).
