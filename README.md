@@ -10,6 +10,7 @@ The goal is to classify images into five categories — dalmatian, dollar_bill, 
 
 All images were resized to 64×64 pixels, flattened into one-dimensional vectors, and normalized to improve model performance.
 Both models were trained and evaluated using scikit-learn, with GridSearchCV applied for hyperparameter tuning.
+
 🧰 Methodology
 
 Dataset Preparation
